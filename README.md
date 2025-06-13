@@ -9,7 +9,6 @@ Paste github repo in and click "Clone" :
 
 Change the build to "Release" for more optimized machine code
 
-![image](https://github.com/user-attachments/assets/954b1958-d9a9-4c49-88b5-426fbd7889f8)
 
 (Already done) Go into Project Properties > Linker > System
 
